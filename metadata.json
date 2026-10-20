@@ -1,0 +1,6 @@
+{
+  "name": "SMART AI",
+  "description": "منصة SMART AI لتحليلات وإشارات الألعاب المباشرة مع توقعات ذكية لمنصة BIZBET بدقة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
